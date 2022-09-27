@@ -89,7 +89,8 @@ ul {
 .two:hover .dropdown li {
 	display: block;
 	animation: menu2 .5s forwards;
-	width: 50px;
+	width: 100px;
+
 }
 
 .three:hover .dropdown li {
